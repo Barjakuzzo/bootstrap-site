@@ -1,0 +1,39 @@
+
+body {
+  background: #FFFFFF;
+}
+
+.container {
+  width: 1440px;
+  margin: 0 auto;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+/*--Header--*/
+
+.header {
+  background: #232536;
+}
+
+.nav {
+  margin-left: 50px;
+  padding: 25px;
+}
+
+.header-menu {
+  display: flex;
+  justify-content: space-between;
+  justify-content: baseline;
+  padding: 20px;
+}
+
+.header-button {
+  padding: 25px;
+}
+
+.accordion_li .container {
+  display: flex;
+}
+
+
