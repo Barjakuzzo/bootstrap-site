@@ -10,6 +10,15 @@ body {
   padding-right: 80px;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+section {
+  padding: 10px 0;
+}
+
 /*--Header--*/
 
 .header {
@@ -32,8 +41,14 @@ body {
   padding: 25px;
 }
 
-.accordion_li .container {
+/*--Accordion--*/
+
+.accordion-li .container {
   display: flex;
 }
 
+/*--Footer--*/
 
+.card-li .container {
+  display: flex;
+}
